@@ -1,7 +1,7 @@
 # Program Enkripsi
 
-Implementasi tiga metode enkripsi: Vigenere Cipher, Playfair Cipher, dan Hill Cipher. 
-GUI yang memudahkan pengguna dalam memilih metode enkripsi dan menginput teks serta kunci.
+-Implementasi tiga metode enkripsi: Vigenere Cipher, Playfair Cipher, dan Hill Cipher.
+-GUI yang memudahkan pengguna dalam memilih metode enkripsi dan menginput teks serta kunci.
 
 ## Fitur
 
